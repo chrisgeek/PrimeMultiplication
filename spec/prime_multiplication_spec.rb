@@ -38,8 +38,8 @@ describe MultiplicationTable do
   end
   
   describe "print_table" do
-    context "when parameter == 2" do
-      it "prints a 2 x 2 table" do
+    context "is it successful" do
+      it "is successful == true" do
         expect(@multiplication_table.print_table()).to eql(true)
       end
     end
