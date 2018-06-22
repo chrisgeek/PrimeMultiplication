@@ -1,0 +1,12 @@
+== PrimeMultiplication
+This is a simple Ruby program that calculates and displays a
+multiplication table of the first 10 prime numbers.
+Note: the size of the prime number can be arbitrary.
+
+To run this program
+1. Open command prompt (ensure you have ruby installed)
+2. Go to PrimeMultiplication\lib
+3. run multiplication_table.
+
+
+ 
